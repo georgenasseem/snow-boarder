@@ -6,7 +6,7 @@
 Controls are pretty simple. Right and Left arrows to tilt your character, long pressing these buttons will cause your character to do a flip.
 
 ## Scoring of Slash Hero
-Doing a flip will earn you a point Your score is your final amount of points try to beat my score is 32.
+Doing a flip will earn you a point Your score is your final amount of points try to beat my score of 32.
 
 ## Playing Slash Hero
 Snoew Boarder is hosted on a [website](https://snow-boarder.netlify.app) on netlify.
